@@ -1,0 +1,14 @@
+{
+  "source": "thebetweenlands:critter",
+  "inherit_overrides": false,
+  "custom": {
+    "map": {
+      "thebetweenlands:gecko": "thebetweenlands:item/gecko",
+      "thebetweenlands:firefly": "thebetweenlands:item/firefly",
+      "thebetweenlands:dragonfly": "thebetweenlands:item/dragonfly",
+      "thebetweenlands:mire_snail": "thebetweenlands:item/mire_snail",
+      "thebetweenlands:cave_fish": "thebetweenlands:item/cave_fish",
+      "thebetweenlands:olm": "thebetweenlands:item/olm"
+    }
+  }
+}
